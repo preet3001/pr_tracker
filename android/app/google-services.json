@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "305073973583",
+    "project_id": "prtracker-2149d",
+    "storage_bucket": "prtracker-2149d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305073973583:android:8ad608619df5506485fd3a",
+        "android_client_info": {
+          "package_name": "com.preet.pr_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305073973583-rn868n61hmtpks0g3a8mv0obd38drumv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.preet.pr_tracker",
+            "certificate_hash": "f03c57147aae8e59f8cf62c3d2e4843232304b96"
+          }
+        },
+        {
+          "client_id": "305073973583-qcm8mvm4b1if8b6pd0htqh0g1p8ccq7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUrRgDISKNU_VsHnSJygbTp7H7aRMUh5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305073973583-qcm8mvm4b1if8b6pd0htqh0g1p8ccq7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
